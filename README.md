@@ -2,7 +2,7 @@
 
 Workshop outline for building an education quiz.
 
-`*-deck.md` are written for use with [Deckset](http://www.decksetapp.com/), the
+`*-deck.md` are written for use with [Deckset](http://www.decksetapp.com/).
 
 
 ## Tools and Technology
