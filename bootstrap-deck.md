@@ -38,6 +38,13 @@ Content, Presentation, Behaviour
 
 ---
 
+### `<button`
+### `class="btn btn-default"`
+### `type="submit">`
+### `Button</button>`
+
+---
+
 ### Pros :thumbsup:
 
 # Fast
@@ -66,6 +73,9 @@ Content, Presentation, Behaviour
 # A different grid on each
 
 ^ random numbers
+then bg colours
+then text colours
+then text alignment
 
 ---
 
