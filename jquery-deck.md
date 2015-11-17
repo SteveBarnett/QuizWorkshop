@@ -1,4 +1,5 @@
-# jQuery
+
+![300%](jquery-logo.png)
 
 ---
 

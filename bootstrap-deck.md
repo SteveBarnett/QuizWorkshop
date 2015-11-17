@@ -1,6 +1,6 @@
 # Twitter Bootstrap
 
-![fit](./twitter.png)
+![200%](./twitter.png)
 
 ---
 

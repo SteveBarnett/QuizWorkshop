@@ -1,4 +1,5 @@
-# Handlebars
+
+![150%](handlebars_logo.png)
 
 ---
 
