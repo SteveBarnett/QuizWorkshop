@@ -91,6 +91,8 @@ then text alignment
 
 # Add a navigation bar
 
+^ http://getbootstrap.com/components/#nav
+
 ---
 
 ### Activity
@@ -98,3 +100,4 @@ then text alignment
 # Add a log in form
 
 ^ It doesn't have to work!
+http://getbootstrap.com/css/#forms
