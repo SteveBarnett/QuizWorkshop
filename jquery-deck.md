@@ -72,11 +72,25 @@ We won't use it for this (because PouchDB), but very important and popular.
 
 ---
 
-### Activity
+# Demo
 
-# Refactor something to use jQuery
+---
 
-^ RedAndGreen `addClass` and `addEventListener`
+### Task 4
+
+### 1. include `jQuery`
+
+### 2. rewrite
+### `querySelector`
+### `addEventListener`
+### `innerHTML`
+
+---
+
+### jQuery
+
+# Manipulation
+# Events
 
 ---
 
