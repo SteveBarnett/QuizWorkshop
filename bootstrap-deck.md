@@ -87,11 +87,19 @@ then text alignment
 
 ---
 
+# Ex: Mobile and desktop
+
+# getbootstrap.com/css/#grid-example-mixed
+
+---
+
 ### Activity
 
 # Add a navigation bar
 
-^ http://getbootstrap.com/components/#nav
+---
+
+# getbootstrap.com/components/#nav
 
 ---
 
@@ -100,4 +108,7 @@ then text alignment
 # Add a log in form
 
 ^ It doesn't have to work!
-http://getbootstrap.com/css/#forms
+
+---
+
+# getbootstrap.com/css/#forms
