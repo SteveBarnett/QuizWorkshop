@@ -9,14 +9,20 @@
 
 ---
 
-## Variables
-
-## `<h1>{{name}}</h1>`
-## `<h2>{{author.name}}</h2>`
+# Is your data
+# Static
+# or
+# Dynamic?
 
 ---
 
-### Loops
+## Example
+
+# `Hi, {{name}}`
+
+---
+
+## Loops
 
 # `{{#each items}}`
 # `...`
@@ -32,6 +38,28 @@
 
 ---
 
-### Activity
+# Include `handlebars.js`
+# Supply Template
+# Supply Data
+# `Handlebars.compile`
 
-# ?
+---
+
+# Demo(s)
+
+---
+
+# tryhandlebarsjs.com
+
+---
+
+## Activity
+
+# Make your page use Handlebars
+
+---
+
+# Include `handlebars.js`
+# Supply Template
+# Supply Data
+# `Handlebars.compile`
